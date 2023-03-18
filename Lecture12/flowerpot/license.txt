@@ -1,0 +1,11 @@
+Model Information:
+* title:	Flowerpot
+* source:	https://sketchfab.com/3d-models/flowerpot-0ead7a2453da47c3a39b550fb283314f
+* author:	Ronald Hessens (https://sketchfab.com/r.hessens)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Flowerpot" (https://sketchfab.com/3d-models/flowerpot-0ead7a2453da47c3a39b550fb283314f) by Ronald Hessens (https://sketchfab.com/r.hessens) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

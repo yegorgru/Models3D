@@ -1,0 +1,11 @@
+Model Information:
+* title:	Curved monitor
+* source:	https://sketchfab.com/3d-models/curved-monitor-1caab76438a54c6b9274794a5c75b7e3
+* author:	Crodattilo (https://sketchfab.com/Crodattilo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Curved monitor" (https://sketchfab.com/3d-models/curved-monitor-1caab76438a54c6b9274794a5c75b7e3) by Crodattilo (https://sketchfab.com/Crodattilo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
